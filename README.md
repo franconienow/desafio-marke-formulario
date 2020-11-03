@@ -16,9 +16,9 @@ Este projeto foi utilizado ReactJS para o front e Node/Express para o backend.
 ---
 ![screenshot](https://github.com/franconienow/desafio-marke-formulario/blob/master/screenshots/gif.gif)
 ---
-![screenshot](https://github.com/franconienow/desafio-marke-formulario/blob/master/screenshots/screenshot1.png)
+![screenshot](https://github.com/franconienow/desafio-marke-formulario/blob/master/screenshots/screenshot2.png)
 ---
-![screenshot](https://github.com/franconienow/desafio-marke-formulario/blob/master/screenshots/screenshot1.png)
+![screenshot](https://github.com/franconienow/desafio-marke-formulario/blob/master/screenshots/screenshot3.png)
 ---
 
 ## Rodando o Frontend
