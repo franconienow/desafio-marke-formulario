@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13782421.chunk.css",
+    "main.js": "/static/js/main.be25f8d2.chunk.js",
+    "main.js.map": "/static/js/main.be25f8d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56da030b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56da030b.js.map",
+    "static/js/2.7aebe1e6.chunk.js": "/static/js/2.7aebe1e6.chunk.js",
+    "static/js/2.7aebe1e6.chunk.js.map": "/static/js/2.7aebe1e6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.13782421.chunk.css.map": "/static/css/main.13782421.chunk.css.map",
+    "static/js/2.7aebe1e6.chunk.js.LICENSE.txt": "/static/js/2.7aebe1e6.chunk.js.LICENSE.txt",
+    "static/media/chip.4293a0c5.svg": "/static/media/chip.4293a0c5.svg",
+    "static/media/dinners.417160c5.svg": "/static/media/dinners.417160c5.svg",
+    "static/media/discover.89f06bb1.svg": "/static/media/discover.89f06bb1.svg",
+    "static/media/mastercard.3777d8ea.svg": "/static/media/mastercard.3777d8ea.svg",
+    "static/media/visa.9f766811.svg": "/static/media/visa.9f766811.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56da030b.js",
+    "static/js/2.7aebe1e6.chunk.js",
+    "static/css/main.13782421.chunk.css",
+    "static/js/main.be25f8d2.chunk.js"
+  ]
+}
