@@ -1,6 +1,6 @@
 # Desafio Marke Formulário de Cartão de Crédito
 
-Este projeto foi utilizado ReactJS para o front e Node/Express para o backend.
+Neste projeto foi utilizado ReactJs para o front e Node/Express para o backend.
 
 ---
 
